@@ -1,0 +1,18 @@
+@import "./styles/utils/text-align-center";
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box; // faz com que as bordas e o preenchimento sejam incluídos do tamanho total do elemento
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
